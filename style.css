@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(104deg, rgba(231, 235, 137, 1) 0%, rgba(235, 163, 39, 1) 64%);
+}
+
+.row {
+    margin-top: 25vh;
+}
+
+h1 {
+    margin-top: 0;
+}
